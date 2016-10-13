@@ -68,7 +68,8 @@ transform: translate(-50%, -50%)
 
 
 #aboutMe{
-  padding-top: 39px;
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .about-font{
@@ -79,4 +80,19 @@ transform: translate(-50%, -50%)
 .title-font{
   font-family: Monaco;
   font-size: 48px;
+}
+
+#projects{
+  background-color: #d3d3d3;
+}
+
+.im-centered { margin: auto; max-width: 300px;}
+
+.centers {
+    margin: 0 auto;
+    width: 98%;
+}
+
+.top-spz{
+  margin-top: 20px;
 }
