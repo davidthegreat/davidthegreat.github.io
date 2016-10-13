@@ -62,7 +62,21 @@ transform: translate(-50%, -50%)
   font-size: 20px;
 }
 
-a {
-    color: white;
-    text-decoration: none;
+.center-title{
+  text-align: center;
+}
+
+
+#aboutMe{
+  padding-top: 39px;
+}
+
+.about-font{
+  font-family: Courier;
+  font-size: 20px;
+}
+
+.title-font{
+  font-family: Monaco;
+  font-size: 48px;
 }
