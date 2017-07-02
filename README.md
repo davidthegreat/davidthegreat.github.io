@@ -1,1 +1,0 @@
-# davidthegreat.github.io
