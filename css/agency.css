@@ -656,7 +656,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .modal-dialog {
   margin: 0;
   height: 100%;
-  width: auto;
+  /*width: auto;*/
 }
 .portfolio-modal .modal-content {
   border-radius: 0;
