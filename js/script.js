@@ -145,7 +145,7 @@ $(document).ready(function() {
     $(".js-wp-3").waypoint(function(direction) {
         $(".js-wp-3").addClass("animated fadeInUp");
     }, {
-        offset: "40%"
+        offset: "30%"
     });
 
     $(".js-wp-4").waypoint(function(direction) {
