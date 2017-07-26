@@ -525,7 +525,8 @@ textarea:active {
     }
     #projects img {
       float: left;
-      width: 100%;
+      height: 200px;
+      width: 254px;
     }
     #projects .half_opacity {
       opacity: 0.4;
